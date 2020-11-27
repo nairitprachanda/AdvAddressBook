@@ -1,0 +1,1 @@
+DELETE FROM address_book1 WHERE First_Name='Charles';

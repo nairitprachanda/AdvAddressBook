@@ -1,0 +1,1 @@
+select count(Email) from address_book1 where type='Spy'

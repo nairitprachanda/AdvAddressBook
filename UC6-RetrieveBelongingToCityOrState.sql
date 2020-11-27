@@ -1,0 +1,1 @@
+select * from address_book1 where City='New York' or State='New York'
